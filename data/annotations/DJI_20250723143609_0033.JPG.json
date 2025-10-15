@@ -1,0 +1,25 @@
+{
+  "image_path": "/home/max/Desktop/DJI_202507231427_002_Create-Area-Route9/DJI_20250723143609_0033.JPG",
+  "annotations": [
+    {
+      "bbox": [
+        2038,
+        1478,
+        3652,
+        2789
+      ],
+      "type": "background",
+      "timestamp": "2025-07-24T02:04:21.905647"
+    },
+    {
+      "bbox": [
+        5164,
+        1511,
+        6736,
+        2621
+      ],
+      "type": "background",
+      "timestamp": "2025-07-24T02:04:22.286670"
+    }
+  ]
+}

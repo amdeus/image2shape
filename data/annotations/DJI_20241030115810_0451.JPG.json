@@ -1,0 +1,25 @@
+{
+  "image_path": "/home/max/Desktop/daten/privat/project/example/test_environment/testdata/DJI_20241030115810_0451.JPG",
+  "annotations": [
+    {
+      "bbox": [
+        4639,
+        516,
+        5449,
+        1308
+      ],
+      "type": "background",
+      "timestamp": "2025-07-27T12:03:02.386861"
+    },
+    {
+      "bbox": [
+        1691,
+        2938,
+        2991,
+        4514
+      ],
+      "type": "background",
+      "timestamp": "2025-07-27T12:03:03.577161"
+    }
+  ]
+}

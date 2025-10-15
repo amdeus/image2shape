@@ -1,0 +1,65 @@
+{
+  "image_path": "/home/max/Desktop/daten/privat/project/example/test_environment/testdata/DJI_20241030120029_0547.JPG",
+  "annotations": [
+    {
+      "bbox": [
+        7185,
+        2234,
+        7310,
+        2421
+      ],
+      "type": "feature",
+      "timestamp": "2025-07-27T12:02:32.966495"
+    },
+    {
+      "bbox": [
+        7221,
+        3561,
+        7381,
+        4042
+      ],
+      "type": "feature",
+      "timestamp": "2025-07-27T12:02:34.328859"
+    },
+    {
+      "bbox": [
+        7070,
+        80,
+        7168,
+        231
+      ],
+      "type": "feature",
+      "timestamp": "2025-07-27T12:02:36.946153"
+    },
+    {
+      "bbox": [
+        2715,
+        667,
+        4861,
+        1798
+      ],
+      "type": "background",
+      "timestamp": "2025-07-27T12:02:40.257906"
+    },
+    {
+      "bbox": [
+        2947,
+        3348,
+        4372,
+        4167
+      ],
+      "type": "background",
+      "timestamp": "2025-07-27T12:02:40.827770"
+    },
+    {
+      "bbox": [
+        507,
+        2475,
+        1362,
+        2920
+      ],
+      "type": "background",
+      "timestamp": "2025-07-27T12:02:41.522983"
+    }
+  ]
+}
